@@ -1,0 +1,70 @@
+/**
+ * CSS File for Sphinx - Adapted from my file for docutils
+ * Keegan Carruthers-Smith 2011
+ */
+
+@import url("basic.css");
+
+/* Generic */
+body {
+    background-color: white;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    line-height: 20px;
+    margin:10px auto 10px auto;
+    max-width:700px;
+}
+
+a       { color: #3f3fa0; text-decoration: none; }
+a:hover { color: #3f3f3f }
+
+hr { margin: 10px 0 15px 0; }
+
+h1, h2, h3, #contents, #header {
+    font-family: Georgia;
+    font-weight: normal;
+    letter-spacing: -0.05em;
+}
+
+h1               { font-size: 50px; line-height: 1.4; margin: 20px 0; }
+h2, .topic-title { font-size: 23px; line-height: 1.1; margin: 30px 0 10px 0; }
+h3               { font-size: 18px; line-height: 1.5; margin: 10px 0 10px 0; }
+h1 { text-align: center; }
+
+/* Header */
+#header { height: 40px; position: relative; }
+.title, ul.navigation {
+    position: absolute;
+    bottom: 0;
+    margin: 0 0 10px 0;
+}
+.title        { font-size: 28px; left: 0; color: black; }
+ul.navigation { font-size: 18px; right: 0; }
+ul.navigation li { display: inline; margin-left: 10px; }
+
+/* Index Page */
+#hello {
+    color: #3f3f3f;
+    font-family: Georgia;
+    font-size: 25px;
+    font-weight: normal;
+    letter-spacing: -0.05em;
+    line-height: 40px;
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: center;
+}
+#hello a { color: #3f3fa0; }
+#hello h1 { display: none; }
+
+/* Misc */
+.footer { text-align: right; }
+a.toc-backref { color: black; }
+.document { margin-top: 30px; }
+pre {
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-left: 6px;
+    background-color: #eeeeee;
+}

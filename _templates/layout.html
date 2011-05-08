@@ -1,0 +1,31 @@
+{% extends "!layout.html" %}
+
+{% set render_sidebar = False %}
+
+{%- block header %}
+<div id="header">
+  <a class="title" href="{{ pathto('index') }}">Keegan Carruthers-Smith</a>
+  <ul class="navigation">
+    <li><a href="{{ pathto('CV') }}" title="Curriculm Vitae">cv</a></li>
+    <li><a href="{{ pathto('blog') }}" title="Blog">blog</a></li>
+    <li><a href="{{ pathto('code') }}" title="Code">code</a></li>
+    <li><a href="{{ pathto('misc') }}" title="Miscellaneous">misc</a></li>
+  </ul>
+</div>
+<hr />
+{% endblock %}
+
+{# Get rid of some cruft #}
+{%- block relbar1 %}{# { relbar() } #}{% endblock %}
+{%- block sidebar2 %}{# { sidebar() } #}{% endblock %}
+{%- block relbar2 %}{# { relbar() } #}{% endblock %}
+
+{%- block footer %}
+    <hr />
+    <div class="footer">
+      &copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.
+    {%- if show_sphinx %}
+      {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}
+    {%- endif %}
+    </div>
+{%- endblock %}
