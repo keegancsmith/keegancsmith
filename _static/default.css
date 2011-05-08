@@ -11,7 +11,7 @@ body {
     font-family: Verdana, Helvetica, sans-serif;
     font-size: 13px;
     letter-spacing: 0.01em;
-    line-height: 20px;
+    line-height: 1.5;
     margin:10px auto 10px auto;
     max-width:700px;
 }
@@ -37,10 +37,11 @@ h1 { text-align: center; }
 .title, ul.navigation {
     position: absolute;
     bottom: 0;
-    margin: 0 0 10px 0;
+    margin: 0;
+    padding: 0;
 }
 .title        { font-size: 28px; left: 0; color: black; }
-ul.navigation { font-size: 18px; right: 0; }
+ul.navigation { font-size: 18px; right: 0; padding-bottom: 5px; }
 ul.navigation li { display: inline; margin-left: 10px; }
 
 /* Index Page */
@@ -62,6 +63,7 @@ ul.navigation li { display: inline; margin-left: 10px; }
 .footer { text-align: right; }
 a.toc-backref { color: black; }
 .document { margin-top: 30px; }
+.option-group { min-width: 20px; }
 pre {
     margin-left: 1em;
     margin-right: 1em;
