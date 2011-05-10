@@ -2,6 +2,15 @@
  Hello
 =======
 
+.. toctree::
+    :hidden:
+    :maxdepth: 1
+
+    CV
+    blog
+    code
+    misc    
+
 Hello!
 
 I am Keegan_, a `Masters Student`_ in `Computer Science`_ at the `University

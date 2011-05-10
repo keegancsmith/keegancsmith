@@ -25,10 +25,12 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
+sys.path.append(os.path.abspath('exts'))
 extensions = ['sphinx.ext.pngmath']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+template_bridge = 'template_helpers.TemplateBridge'
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -37,7 +39,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'sitemap'
+master_doc = 'index'
 
 # General information about the project.
 project = u'homepage'

@@ -64,6 +64,7 @@ ul.navigation li { display: inline; margin-left: 10px; }
 a.toc-backref { color: black; }
 .document { margin-top: 30px; }
 .option-group { min-width: 20px; }
+.publish-date { text-align: center; font-style: italic; }
 pre {
     margin-left: 1em;
     margin-right: 1em;

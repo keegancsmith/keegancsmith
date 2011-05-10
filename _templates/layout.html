@@ -15,6 +15,13 @@
 <hr />
 {% endblock %}
 
+{%- block document %}
+{{ super() }}
+{% if 'date' in meta %}
+<p class="publish-date">Published on the {{ meta['date']|format_date }}</p>
+{% endif %}
+{% endblock %}
+
 {# Get rid of some cruft #}
 {%- block relbar1 %}{# { relbar() } #}{% endblock %}
 {%- block sidebar2 %}{# { sidebar() } #}{% endblock %}
