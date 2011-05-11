@@ -218,3 +218,7 @@ man_pages = [
     ('index', 'homepage', u'homepage Documentation',
      [u'Keegan Carruthers-Smith'], 1)
 ]
+
+feed_title = "Keegan Carruthers-Smith's Blog"
+feed_base_url = 'http://people.cs.uct.ac.za/~ksmith'
+feed_description = 'Blog on what interests me, which is mostly algorithms and data-structures.'
