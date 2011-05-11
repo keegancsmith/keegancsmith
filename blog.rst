@@ -4,5 +4,9 @@
 
 .. toctree::
     :maxdepth: 1
+    :hidden:
+    :glob:
 
-    2011/sliding-window-minimum
+    2011/*
+
+.. articlelist::
