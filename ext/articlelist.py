@@ -38,20 +38,16 @@ def process_articlelist_nodes(app, doctree, fromdocname):
 
     for node in doctree.traverse(articlelist):
         if articles is None:
-            # print '\n'.join(dir(app.builder.env))
-            # for i in dir(app.builder.env):
-            #     try:
-            #         print i.ljust(15), repr(getattr(app.builder.env, i))
-            #     except:
-            #         "FFFUUUUUUUUUUU", i
             articles = list(get_articles())
             articles.sort(reverse=True)
 
         listnode = nodes.bullet_list(classes=['article-list'])
         for pub_date, docname in articles:
             par = nodes.paragraph()
-            date_str = pub_date.strftime('%B %Y ')
-            par += nodes.Text(date_str, date_str)
+            date_str = pub_date.strftime('%B %Y')
+            datenode = nodes.inline(classes=['date'])
+            datenode += nodes.Text(date_str, date_str)
+            par += datenode
 
             title = app.builder.env.titles.get(docname, None)
             if title is None:

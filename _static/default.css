@@ -59,6 +59,17 @@ ul.navigation li { display: inline; margin-left: 10px; }
 #hello a { color: #3f3fa0; }
 #hello h1 { display: none; }
 
+/* Blog list page */
+.article-list { list-style-type: none; margin-left: 0; padding-left: 0; }
+.article-list li { position: relative; margin-bottom: 10px; }
+.article-list li a { position: absolute; left: 160px; }
+.article-list li span.date {
+    color: #3f3f3f;
+    display: inline-block;
+    text-align: right;
+    width: 150px;
+}
+
 /* Misc */
 .footer { text-align: right; }
 a.toc-backref { color: black; }
