@@ -71,7 +71,7 @@ ul.navigation li { display: inline; margin-left: 10px; }
 }
 
 /* Misc */
-.footer { text-align: right; }
+.footer { text-align: right; font-size: 10px; }
 a.toc-backref { color: black; }
 .document { margin-top: 30px; }
 .option-group { min-width: 20px; }
