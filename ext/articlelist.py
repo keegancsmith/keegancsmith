@@ -1,3 +1,5 @@
+# Copyright (c) 2011 Keegan Carruthers-Smith. All rights reserved.
+# This file is licensed using the 2-clause BSD license.
 # Hacked together from reading sphinx.ext.todo and the feed extension from
 # sphinx-contrib
 
