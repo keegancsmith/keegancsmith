@@ -59,6 +59,11 @@ Computer Science). I am currently working on a Masters in Computer Science.
 Employment History
 ==================
 
+* **2011** - Internship at `Nimbula <http://nimbula.com/>`_. Wrote an EC2 API
+  Shim. This was a service which exposed an EC2 SOAP and REST API and
+  translated the requests into Nimbula Director API requests. Technologies
+  used: Python and Twisted.
+
 * **2010** - Internship at `Amazon Web Services <http://aws.amazon.com/>`_ on
   the EC2 Team. My first project was replacing an internal XML-RPC system with
   something faster (ended up being JSON). The second project was creating a
