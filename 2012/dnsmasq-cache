@@ -1,0 +1,16 @@
+#!/bin/sh
+# Add dnsmasq caching server and google dns to /etc/resolv.conf
+
+set -e
+
+# No need to do anything on loopback.
+if [ "$IFACE" = lo ]; then exit 0; fi
+
+# Only run from ifup.
+if [ "$MODE" != start ]; then exit 0; fi
+
+cp /etc/resolv.conf /etc/resolv.conf.tmp
+echo nameserver 127.0.0.1 > /etc/resolv.conf
+echo nameserver 8.8.4.4 >> /etc/resolv.conf
+cat /etc/resolv.conf.tmp >> /etc/resolv.conf
+rm /etc/resolv.conf.tmp

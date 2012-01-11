@@ -8,5 +8,6 @@
     :glob:
 
     2011/*
+    2012/*
 
 .. articlelist::
