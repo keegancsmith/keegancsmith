@@ -59,6 +59,9 @@ Computer Science). I am currently working on a Masters in Computer Science.
 Employment History
 ==================
 
+* **2012** - Currently contracting at `Snapbill
+  <http://snapbill.com/>`_. Technologies used: PHP, Python, Puppet
+
 * **2011** - Internship at `Nimbula <http://nimbula.com/>`_. Wrote an EC2 API
   Shim. This was a service which exposed an EC2 SOAP and REST API and
   translated the requests into Nimbula Director API requests. Technologies
