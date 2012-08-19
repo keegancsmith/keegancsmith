@@ -47,7 +47,7 @@ ARR[i-K+1] to ARR[i] and keep track of the minimum
   void brute_force_time(std::vector<int> & ARR, int K) {
     for (int i = 0; i < ARR.size(); i++) {
        int min_value = ARR[i];
-       for (int j = i - 1; j >= min(i - K + 1, 0); j--)
+       for (int j = i - 1; j >= max(i - K + 1, 0); j--)
           min_value = min(min_value, ARR[j]);
        std::cout << min_value << ' ';
     }
