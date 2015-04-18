@@ -18,7 +18,8 @@ I have a Bachelor of Science with distinction in Computer Science and
 Mathematics and the degree with distinction. I also have a BSc Honours in the
 Mathematics of Computer Science with Distinction (The degree comprises honours
 modules in Pure Mathematics, Theoretical Computer Science and Experimental
-Computer Science). I am currently working on a Masters in Computer Science.
+Computer Science). I was doing a Masters in Computer Science, but dropped out
+to work instead.
 
 
 .. 1st Year Results
@@ -59,8 +60,11 @@ Computer Science). I am currently working on a Masters in Computer Science.
 Employment History
 ==================
 
-* **2012** - Currently contracting at `Snapbill
-  <http://snapbill.com/>`_. Technologies used: PHP, Python, Puppet
+* **2012** - Currently a Software Engineer at `Facebook
+  <https://www.facebook.com/>`_.
+
+* **2012** - Contract work `Snapbill <http://snapbill.com/>`_. Technologies
+  used: PHP, Python, Puppet
 
 * **2011** - Internship at `Nimbula <http://nimbula.com/>`_. Wrote an EC2 API
   Shim. This was a service which exposed an EC2 SOAP and REST API and
