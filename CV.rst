@@ -7,7 +7,7 @@
 :Name: Keegan Carruthers-Smith
 :Contact: keegan.csmith@gmail.com
 :Website: http://people.cs.uct.ac.za/~ksmith/
-:Location: Southern Suburbs, Cape Town, South Africa
+:Location: Cape Town, South Africa
 
 .. contents
 
@@ -21,47 +21,18 @@ modules in Pure Mathematics, Theoretical Computer Science and Experimental
 Computer Science). I was doing a Masters in Computer Science, but dropped out
 to work instead.
 
-
-.. 1st Year Results
-.. ----------------
-
-.. =============================   ===
-.. Computer Science 118 (Python)   87%
-.. Computer Science 1B (Java)      78%
-.. Mathematics 1                   85%
-.. Statistics                      73%
-.. Microeconomics                  71%
-.. Macroeconomics                  63%
-.. Thinking About Business 1       64%
-.. =============================   ===
-
-.. 2nd Year Results
-.. ----------------
-
-.. =============================   ===
-.. Mathematics 2			75%
-.. Mathematics 201			77%
-.. Computer Science 2A		89%
-.. Computer Science 2B		75%
-.. Computer Games & Simulation	60%
-.. =============================   ===
-
-.. 3rd Year Results
-.. ----------------
-
-.. =============================   ===
-.. Mathematics 3                   94%
-.. Computer Science 3A             73%
-.. Computer Science 3B             85%
-.. =============================   ===
-
-.. TODO add link to unofficial transcript
-
 Employment History
 ==================
 
-* **2012** - Currently a Software Engineer at `Facebook
-  <https://www.facebook.com/>`_.
+* **2012 to 2015** - Software Engineer at `Facebook
+  <https://www.facebook.com/>`_. Worked in the Developer Infrastructure
+  org. Main projects were scaling `Continuous Integration
+  <https://www.facebook.com/keegan.csmith/posts/10155567301170227>`_ (from
+  hundreds to thousands of machines), developer workflow improvements
+  (innovation around tooling/automation for working in large codebases) and
+  mobile automated end to end testing infrastructure (part of automating the
+  mobile release process). Technologies used: Hack, PHP, Python, Chef,
+  Phabricator and many fb internal tools.
 
 * **2012** - Contract work `Snapbill <http://snapbill.com/>`_. Technologies
   used: PHP, Python, Puppet
