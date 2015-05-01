@@ -169,7 +169,7 @@ html_use_index = False
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'homepagedoc'
 
-html_add_permalinks = False
+html_add_permalinks = ''
 
 # -- Options for LaTeX output --------------------------------------------------
 
