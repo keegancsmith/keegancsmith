@@ -25,5 +25,5 @@ is mostly a mirror of my Bitbucket_ page.
     </div>
     <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-.. _Bitbucket: https://bitbucket.org/keegan_csmith/
+.. _Bitbucket: https://bitbucket.org/keegancsmith/
 .. _GitHub: https://github.com/keegancsmith

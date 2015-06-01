@@ -7,7 +7,7 @@
 :Date: March 2009
 :URL: http://people.cs.uct.ac.za/~ksmith/projects/AmarokPidgin.html
 :Download: http://www.kde-apps.org/content/show.php?content=48025
-:Mercurial: http://bitbucket.org/keegan_csmith/amarokpidgin/overview/
+:Mercurial: http://bitbucket.org/keegancsmith/amarokpidgin/overview/
 
 .. contents::
 

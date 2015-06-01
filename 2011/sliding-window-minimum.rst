@@ -6,7 +6,7 @@
 
 Sliding window minimum is an interesting algorithm, so I thought I would
 implement it in a bunch of different languages. See
-https://bitbucket.org/keegan_csmith/sliding-window-minimum/src for
+https://bitbucket.org/keegancsmith/sliding-window-minimum/src for
 implementations of the algorithm in different programming languages. What
 follows is an explanation of the problem and the algorithm.
 

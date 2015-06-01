@@ -62,7 +62,7 @@ just that (and runs both PEP8 and pyflakes on the input):
 
 This code may change over time, as I find different outputs that should be
 treated as warnings. The latest version of this code is `here
-<https://bitbucket.org/keegan_csmith/dotfiles/raw/tip/misc/pyflakespep8.py>`_.
+<https://bitbucket.org/keegancsmith/dotfiles/raw/tip/misc/pyflakespep8.py>`_.
 
 Here is the snippet of elisp to make flymake use the above command in
 python-mode. Replace `/PATH/TO/pyflakespep8.py` to a valid path to the
