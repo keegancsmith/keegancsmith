@@ -13,13 +13,14 @@
 
 Hello!
 
-I am Keegan_. Recently I was a Software Engineer at `Facebook`_ working on
-`Developer Infrastructure`_. Before that I spent many years doing `Computer
-Science`_ at the `University of Cape Town`_.
+I am Keegan_. I'm a Software Engineer at Sourcegraph_. Before that I spent
+time hacking on `Developer Infrastructure`_ at `Facebook`_. Otherwise I spent
+many years doing `Computer Science`_ at the `University of Cape Town`_.
 
 The best way to get hold of me is via email_.
 
 .. _Keegan: https://www.facebook.com/keegan.csmith
+.. _Sourcegraph: https://sourcegraph.com/
 .. _Facebook: https://www.facebook.com/
 .. _`Developer Infrastructure`: https://www.facebook.com/keegan.csmith/posts/10155567301170227
 .. _`Computer Science`: http://www.cs.uct.ac.za/

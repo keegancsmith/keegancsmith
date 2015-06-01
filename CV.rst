@@ -24,6 +24,9 @@ to work instead.
 Employment History
 ==================
 
+* **2015 to current** - Software Engineer at `Sourcegraph
+  <https://sourcegraph.com/>`_.
+
 * **2012 to 2015** - Software Engineer at `Facebook
   <https://www.facebook.com/>`_. Worked in the Developer Infrastructure
   org. Main projects were scaling `Continuous Integration
