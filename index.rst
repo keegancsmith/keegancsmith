@@ -17,7 +17,7 @@ I am Keegan_. I'm a Software Engineer at Sourcegraph_. Before that I spent
 time hacking on `Developer Infrastructure`_ at `Facebook`_. Otherwise I spent
 many years doing `Computer Science`_ at the `University of Cape Town`_.
 
-The best way to get hold of me is via email_.
+The best way to get hold of me is via Twitter_ or email_.
 
 .. _Keegan: https://www.facebook.com/keegan.csmith
 .. _Sourcegraph: https://sourcegraph.com/
@@ -25,4 +25,5 @@ The best way to get hold of me is via email_.
 .. _`Developer Infrastructure`: https://www.facebook.com/keegan.csmith/posts/10155567301170227
 .. _`Computer Science`: http://www.cs.uct.ac.za/
 .. _`University of Cape Town`: http://www.uct.ac.za/
+.. _Twitter: https://twitter.com/keegan_csmith
 .. _`email`: mailto:keegan.csmith@gmail.com
