@@ -2,15 +2,7 @@
  Code
 ======
 
-.. toctree::
-    :hidden:
-    :maxdepth: 1
-    :glob:
-
-    projects/*
-
-I publish most of my code on Bitbucket_. I have a profile on GitHub_, but it
-is mostly a mirror of my Bitbucket_ page.
+I publish most of my code on GitHub_.
 
 .. raw:: html
 
@@ -25,5 +17,4 @@ is mostly a mirror of my Bitbucket_ page.
     </div>
     <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-.. _Bitbucket: https://bitbucket.org/keegancsmith/
 .. _GitHub: https://github.com/keegancsmith

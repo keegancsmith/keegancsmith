@@ -19,10 +19,10 @@ many years doing `Computer Science`_ at the `University of Cape Town`_.
 
 The best way to get hold of me is via Twitter_ or email_.
 
-.. _Keegan: https://www.facebook.com/keegan.csmith
+.. _Keegan: https://github.com/keegancsmith
 .. _Sourcegraph: https://sourcegraph.com/
 .. _Facebook: https://www.facebook.com/
-.. _`Developer Infrastructure`: https://www.facebook.com/keegan.csmith/posts/10155567301170227
+.. _`Developer Infrastructure`: https://engineering.fb.com/category/developer-tools/
 .. _`Computer Science`: http://www.cs.uct.ac.za/
 .. _`University of Cape Town`: http://www.uct.ac.za/
 .. _Twitter: https://twitter.com/keegan_csmith

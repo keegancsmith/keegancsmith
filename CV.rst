@@ -6,7 +6,7 @@
 
 :Name: Keegan Carruthers-Smith
 :Contact: keegan.csmith@gmail.com
-:Website: http://people.cs.uct.ac.za/~ksmith/
+:Website: https://github.com/keegancsmith
 :Location: Cape Town, South Africa
 
 .. contents
@@ -85,6 +85,7 @@ Programming Languages
 
 I am proficient in the following languages:
 
+* Go
 * Python
 * Java
 * C/C++
@@ -103,24 +104,7 @@ Open Source Project
 ===================
 
 I enjoy using open source software and often publish code I have written as
-open source. See my `code <http://people.cs.uct.ac.za/~ksmith/code.html>`_
-for more info.
-
-.. FUSEPod
-.. -------
-
-.. `FUSEPod <http://fusepod.sf.net/>`_ is a user space file system that uses
-.. `FUSE <http://fuse.sf.net>`_ to mount an iPod for easy browsing of the
-.. songs. Written in C++. Uses FUSE and libgpod.
-
-.. AmarokPidgin
-.. ------------
-
-.. `AmarokPidgin <http://people.cs.uct.ac.za/~ksmith/AmarokPidgin.html>`_ is a
-.. plug-in for Amarok that updates your Pidgin status message with what you are
-.. currently listening to. Written in Python. Uses DCOP and DBUS for
-.. inter-process communication.
-
+open source. See my `GitHub <https://github.com/keegancsmith>`_ for more info.
 
 Olympiads
 =========
@@ -148,8 +132,8 @@ order.
 * Attended ACM ICPC World Finals in Harbin, China in February 2010
 * 9th in Code Jam Africa and Arabia 2011
 
-I have been serving on the Scientific Committee for the South African Computer
-Olympiad since 2006. This entails setting problems and writing solutions (in
+I served on the Scientific Committee for the South African Computer Olympiad
+from 2006 until 2011. This entails setting problems and writing solutions (in
 Python, C++ and Java) for the SACO 2nd and 3rd round, and for the training
 camps for IOI selection.
 
@@ -164,18 +148,10 @@ Other Awards
 Other Computer Interests
 ========================
 
-* Unix. I use Ubuntu Linux, Gentoo Linux and FreeBSD
+* Unix. I use NixOS and MacOS. In past lives I used Ubuntu, Gentoo and FreeBSD
 * Being a console junkie. I can 'live' in screen, emacs, irssi, etc
 * Functional Programming. Haskell, Lisp, Functional Style in Python
 * LaTeX
-
-Interests Outside of Computers
-==============================
-
-* Abstract Mathematics. Especially Point-Set Topology, Logic, Category Theory
-  and the more theoretical sides of Computer Science such as Computability
-  Theory.
-* Squash and Skateboarding.
 
 References
 ==========
