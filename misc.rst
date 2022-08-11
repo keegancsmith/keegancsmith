@@ -18,9 +18,8 @@ Site
 This site is a bunch of `ReStructuredText
 <http://docutils.sourceforge.net/rst.html>`_ [`src <_sources>`_] which are
 processed into HTML files by `Sphinx <http://sphinx.pocoo.org/>`_. The source
-of this site is available at `Bitbucket
-<https://bitbucket.org/keegancsmith/homepage/overview>`_ and `GitHub
-<https://github.com/keegancsmith/homepage>`_.
+of this site is available on `GitHub
+<https://github.com/keegancsmith/keegancsmith>`_.
 
 A great artist is good at hiding his sources. I am not a great designer so
 here is a list of sites I got inspiration from:

@@ -7,7 +7,7 @@
 :Date: September 2008
 :URL: http://people.cs.uct.ac.za/~ksmith/projects/AmarokQuilt.html
 :Download: http://www.kde-apps.org/content/show.php/AmarokQuilt?content=83429
-:Mercurial: http://bitbucket.org/keegancsmith/amarokquilt/overview/
+:Mercurial: https://github.com/keegancsmith/AmarokQuilt
 
 
 .. contents::
