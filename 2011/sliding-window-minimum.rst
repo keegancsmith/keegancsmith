@@ -160,7 +160,7 @@ that behaves "nicely".
 Think you fully understand this algorithm, try solving these problems:
 
  * Task "sound" at http://www.boi2007.de/en/tasks
- * Task "pyramid" at http://olympiads.win.tue.nl/ioi/ioi2006/contest/day1/
+ * Task "pyramid" at https://ioinformatics.org/page/ioi-2006/32
    (medium to hard problem)
 
 .. [1] Double-Ended Queue. Supports constant time insertion, removal and
