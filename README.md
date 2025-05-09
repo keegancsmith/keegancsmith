@@ -5,5 +5,4 @@ I am Keegan. I'm a Software Engineer at
 remnants of my [old homepage](./index.rst) or my [CV](./CV.rst).
 
 The best way to get hold of me is via
-[Twitter](https://twitter.com/keegan_csmith) or
 [email](mailto:keegan.csmith@gmail.com).
